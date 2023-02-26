@@ -1,1 +1,3 @@
 hello guys how do i do hackery stuff thanks
+
+[![KislBall's GitHub stats](https://github-readme-stats.vercel.app/api?username=kislball)](https://github.com/anuraghazra/github-readme-stats)
