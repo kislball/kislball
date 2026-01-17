@@ -1,3 +1,3 @@
-hello guys how do i do hackery stuff thanks
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kislball)](https://github.com/anuraghazra/github-readme-stats)
+- **Interests**: Systems programming, webdev
+- **Know**: TS/JS, Rust, Golang, a sprinkle of C/C++
+- **Education**: SPbU AP+CS at MathMech, bachelor 2025-...
